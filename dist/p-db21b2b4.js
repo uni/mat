@@ -1,0 +1,1 @@
+const e={select:"mdc-select",outlined:"mdc-select--outlined",floatLabel:"mdc-floating-label",floatLabelAbove:"mdc-floating-label--float-above"};function l(l){return{[e.select]:!0,[e.outlined]:l}}function t(){return{[e.floatLabel]:!0,[e.floatLabelAbove]:!0}}export{e as U,t as a,l as u}

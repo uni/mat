@@ -1,0 +1,1 @@
+import{r}from"./p-adbebb84.js";import{u as s}from"./p-78249524.js";import{U as o}from"./p-54e06294.js";const n=class{constructor(s){r(this,s)}render(){return o({classes:{"mdc-layout-grid__inner":!0}})}componentDidLoad(){s("uni-grid-inner","shadow")}};export{n as U}

@@ -1,0 +1,31 @@
+{
+  "name": "@uiwebkit/mat",
+  "version": "0.0.1",
+  "description": "Material Design Kit (build)",
+  "author": "Vitalii Havryliuk",
+  "main": "dist/mat.esm.js",
+  "module": "dist/mat/index.esm.js",
+  "es2015": "dist/mat/index.esm.js",
+  "es2017": "dist/mat/index.esm.js",
+  "unpkg": "dist/mat.esm.js",
+  "jsdelivr": "dist/mat.esm.js",
+  "files": [
+    "dist/",
+    "loader/",
+    "i18n/"
+  ],
+  "scripts": {
+    "sync": "gulp",
+    "pack": "npm pack",
+    "publish": "npm publish --access public"
+  },
+  "devDependencies": {
+    "gulp": "4.0.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/uni/mat.git"
+  },
+  "homepage": "https://uiwebkit.com/mat/1/",
+  "license": "CC-BY-4.0"
+}

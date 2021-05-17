@@ -1,0 +1,1 @@
+import{r}from"./p-adbebb84.js";import{u as s}from"./p-78249524.js";import"./p-cf0d344f.js";import{U as o}from"./p-54e06294.js";import{u as a}from"./p-40fdd71d.js";const p=class{constructor(s){r(this,s)}render(){const r=a();return o({classes:r})}componentDidLoad(){s("uni-header-nav-icon-wrap","spy-scroll")}};export{p as uni_header_nav_icon_wrap}

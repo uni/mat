@@ -1,0 +1,1 @@
+import{r as s,h as t,g as o}from"./p-adbebb84.js";import{u as r}from"./p-78249524.js";import{U as e}from"./p-8960387f.js";const c=class{constructor(t){s(this,t)}render(){const{outlined:s}=this;return e({props:{outlined:s},classes:"mdc-select__anchor"},t("slot",null))}componentDidLoad(){r("uni-select-anchor","catch")}get el(){return o(this)}};export{c as U}

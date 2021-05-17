@@ -1,0 +1,1 @@
+import{r as t}from"./p-adbebb84.js";import{u as o}from"./p-78249524.js";import{U as r}from"./p-54e06294.js";function s(){return{"mdc-button__label":!0}}const n=class{constructor(o){t(this,o)}render(){return r({classes:{"mdc-button__label":!0}})}componentDidLoad(){o("uni-button-label","outline")}};export{n as U,s as u}

@@ -1,0 +1,1 @@
+import{r}from"./p-adbebb84.js";import{u as o}from"./p-78249524.js";import{U as t}from"./p-54e06294.js";function s(){return{"mdc-card__media-content":!0}}const a=class{constructor(o){r(this,o)}render(){return t({classes:{"mdc-card__media-content":!0}})}componentDidLoad(){o("uni-card-media-content","shadow")}};export{a as U,s as u}
