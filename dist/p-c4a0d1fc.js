@@ -1,0 +1,1 @@
+import{r as s}from"./p-2cffe494.js";import{u as o}from"./p-78249524.js";import{U as r}from"./p-4d3f0f80.js";import{d as t}from"./p-7b7f4a41.js";const a=class{constructor(o){s(this,o)}render(){const s=t();return r({classes:s})}componentDidLoad(){o("uni-list-item-meta","allow")}};export{a as U}

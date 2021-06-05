@@ -1,1 +1,0 @@
-import{r as s}from"./p-2cffe494.js";import{u as r}from"./p-78249524.js";import{U as o}from"./p-4d3f0f80.js";import{b as t}from"./p-f56328fa.js";const a=class{constructor(r){s(this,r)}render(){const s=t();return o({classes:s})}componentDidLoad(){r("uni-list-item-graphic","agree")}};export{a as U}

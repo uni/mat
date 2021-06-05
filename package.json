@@ -1,6 +1,6 @@
 {
   "name": "@uiwebkit/mat",
-  "version": "0.0.2",
+  "version": "0.0.4",
   "description": "Material Design Kit (build)",
   "main": "dist/mat.esm.js",
   "module": "dist/mat/index.esm.js",
@@ -16,7 +16,7 @@
   "scripts": {
     "sync": "gulp",
     "pack": "npm pack",
-    "publish": "npm publish uiwebkit-mat-0.0.2.tgz --access public"
+    "publish": "npm publish uiwebkit-mat-0.0.4.tgz --access public"
   },
   "devDependencies": {
     "gulp": "4.0.2"
