@@ -1,0 +1,1 @@
+import{r as o}from"./p-2cffe494.js";import{u as s}from"./p-78249524.js";import{U as r}from"./p-4d3f0f80.js";import{u as t}from"./p-b90c2960.js";const n=class{constructor(s){o(this,s)}render(){const o=t();return r({classes:o})}componentDidLoad(){s("uni-button-icon-wrap","boolean")}};export{n as U}

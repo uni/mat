@@ -1,1 +1,0 @@
-System.register(["./p-b299e400.system.js","./p-a821f331.system.js","./p-2dea2bc9.system.js","./p-2afd5875.system.js","./p-852e15ad.system.js"],(function(t){"use strict";return{setters:[function(){},function(){},function(){},function(){},function(s){t("uni_button_icon",s.U)}],execute:function(){}}}));

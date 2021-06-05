@@ -1,0 +1,1 @@
+import{r as o}from"./p-2cffe494.js";import{u as s}from"./p-78249524.js";import{U as r}from"./p-4d3f0f80.js";function i(){return{"mdc-dialog__actions":!0}}const t=class{constructor(s){o(this,s)}render(){return r({classes:{"mdc-dialog__actions":!0}})}componentDidLoad(){s("uni-dialog-actions","visible")}};export{t as U,i as u}

@@ -1,0 +1,1 @@
+System.register(["./p-11f6c0e1.system.js"],(function(t){"use strict";var s;return{setters:[function(t){s=t.h}],execute:function(){var e=t("U",(function(t,e){var n=t.props,r=t.classes;return s("button",Object.assign({},n,{class:r}),s("uni-button-ripple",null),e)}))}}}));

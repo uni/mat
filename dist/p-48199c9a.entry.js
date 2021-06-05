@@ -1,1 +1,0 @@
-import{r as a,g as o}from"./p-adbebb84.js";const s=class{constructor(o){a(this,o)}componentWillLoad(){this.el.innerHTML="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0Ij48cGF0aCBkPSJNNyAxMGw1IDUgNS01eiIgLz48L3N2Zz4NCg=="}get el(){return o(this)}};export{s as uni_mat_f_arrow_drop_down}

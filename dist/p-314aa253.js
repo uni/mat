@@ -1,1 +1,0 @@
-import{r}from"./p-adbebb84.js";import{u as t}from"./p-78249524.js";import{U as e}from"./p-54e06294.js";function o(){return{"mdc-top-app-bar__title":!0}}const s=class{constructor(t){r(this,t)}render(){return e({classes:{"mdc-top-app-bar__title":!0}})}componentDidLoad(){t("uni-header-title","required")}};export{s as U,o as u}

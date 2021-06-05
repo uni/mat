@@ -1,0 +1,1 @@
+System.register(["./p-b1b417ba.system.js","./p-11f6c0e1.system.js","./p-e650b15a.system.js","./p-a821f331.system.js","./p-e0de5ba1.system.js","./p-2dea2bc9.system.js","./p-c8b0ec40.system.js"],(function(s){"use strict";return{setters:[function(e){s("uni_aside_app_wrap",e.U)},function(){},function(){},function(){},function(){},function(){},function(){}],execute:function(){}}}));

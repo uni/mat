@@ -1,1 +1,0 @@
-import{r}from"./p-adbebb84.js";import{u as s}from"./p-78249524.js";import{U as t}from"./p-54e06294.js";function e(){return{"mdc-drawer__subtitle":!0}}const o=class{constructor(s){r(this,s)}render(){return t({classes:{"mdc-drawer__subtitle":!0}})}componentDidLoad(){s("uni-aside-subtitle","width")}};export{o as U,e as u}
