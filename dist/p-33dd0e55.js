@@ -1,1 +1,0 @@
-import{h as s,F as a}from"./p-2cffe494.js";import{U as c}from"./p-4d3f0f80.js";import{c as p,b as l,e as o,f as r}from"./p-05507185.js";const e=({classes:a},o)=>c({classes:a},s("div",{class:l()},s("div",{class:p()},o))),f=({props:p,classes:l},e)=>c({classes:l},s(a,null,s("span",{class:r()},e),s("uni-tab-indicator",Object.assign({},p)),s("span",{class:o()})));export{e as U,f as a}

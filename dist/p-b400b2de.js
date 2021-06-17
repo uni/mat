@@ -1,1 +1,0 @@
-import{r as s,h as r}from"./p-2cffe494.js";import{U as o}from"./p-4d3f0f80.js";import{u as t}from"./p-8a34958a.js";const a=class{constructor(r){s(this,r)}render(){const s=t();return o({classes:s},r("slot",null))}};export{a as U}

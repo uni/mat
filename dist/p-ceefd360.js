@@ -1,1 +1,0 @@
-function n(n,o,t,a="",c=""){t?$(n,o,a,c):function(n,$,o="",t=""){$&&""!==$&&n.classList.remove(`${o}${$}${t}`)}(n,o,a,c)}function $(n,$,o="",t=""){$&&""!==$&&n.classList.add(`${o}${$}${t}`)}export{$ as a,n as h}

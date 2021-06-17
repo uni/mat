@@ -1,1 +1,0 @@
-System.register(["./p-11f6c0e1.system.js","./p-e0de5ba1.system.js","./p-25e97f21.system.js"],(function(t){"use strict";var e,n,s,r;return{setters:[function(t){e=t.r;n=t.h},function(t){s=t.U},function(t){r=t.u}],execute:function(){var u=t("U",function(){function t(t){e(this,t)}t.prototype.render=function(){var t=r();return s({classes:t},n("slot",null))};return t}())}}}));
