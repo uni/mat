@@ -1,6 +1,6 @@
 {
   "name": "@uiwebkit/mat",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "license": "CC-BY-4.0",
   "author": "Vitalii Havryliuk",
   "description": "Material Design Kit (build)",
@@ -18,7 +18,7 @@
   "scripts": {
     "sync": "gulp",
     "pack": "npm pack",
-    "publish": "npm publish uiwebkit-mat-0.1.0.tgz --access public"
+    "publish": "npm publish uiwebkit-mat-0.1.1.tgz --access public"
   },
   "devDependencies": {
     "gulp": "4.0.2"

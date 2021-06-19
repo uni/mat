@@ -1,0 +1,1 @@
+import{r as s}from"./p-2cffe494.js";import{u as r}from"./p-78249524.js";import{U as o}from"./p-4d3f0f80.js";import{U as p}from"./p-994c4b97.js";const a=class{constructor(r){s(this,r)}render(){return o({classes:{[p.appContent]:!0}})}componentDidLoad(){r("uni-aside-app","value")}};export{a as U}
