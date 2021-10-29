@@ -1,0 +1,1 @@
+System.register(["./p-a4d912d5.system.js","./p-83ac2996.system.js"],(function(t){"use strict";return{setters:[function(s){t("uni_bi_styles",s.U)},function(){}],execute:function(){}}}));

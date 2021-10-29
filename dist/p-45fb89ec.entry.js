@@ -1,0 +1,1 @@
+import{r as t}from"./p-09960453.js";import{u as s}from"./p-78249524.js";import{U as r}from"./p-15d481af.js";import{c as o}from"./p-c18e8061.js";import"./p-cf0d344f.js";let i=class{constructor(s){t(this,s)}render(){const t=o();return r({classes:t})}componentDidLoad(){s("uni-list-item-text","try")}};export{i as uni_list_item_text}

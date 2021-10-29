@@ -1,0 +1,1 @@
+import{r as o,h as r}from"./p-09960453.js";import{u as t}from"./p-78249524.js";import{a as s}from"./p-2425c0b5.js";let e=class{constructor(r){o(this,r)}render(){return s({},r("slot",null))}componentDidLoad(){t("uni-select-outline-label","contain")}};export{e as U}

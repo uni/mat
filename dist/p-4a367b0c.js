@@ -1,0 +1,1 @@
+import{r as e}from"./p-09960453.js";import{u as s}from"./p-78249524.js";import{U as m}from"./p-15d481af.js";let t=class{constructor(s){e(this,s)}render(){return m({classes:"mdc-select__menu mdc-menu mdc-menu-surface"})}componentDidLoad(){s("uni-select-menu","continue")}};t.style="uni-select-menu{min-width:200px !important}";export{t as U}

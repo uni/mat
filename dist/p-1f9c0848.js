@@ -1,1 +1,0 @@
-import{h as s}from"./p-2cffe494.js";const t=(t,{props:o,classes:p},c)=>s("button",Object.assign({},o,{class:p}),t?"":s("uni-button-ripple",null),c);export{t as U}

@@ -1,0 +1,1 @@
+System.register(["./p-2d823b42.system.js","./p-83ac2996.system.js","./p-18388f25.system.js","./p-a821f331.system.js"],(function(s){"use strict";return{setters:[function(t){s("uni_menu",t.U)},function(){},function(){},function(){}],execute:function(){}}}));

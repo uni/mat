@@ -1,1 +1,0 @@
-import{r}from"./p-2cffe494.js";import{u as a}from"./p-78249524.js";import{U as o}from"./p-4d3f0f80.js";function s(){return{"mdc-card__primary-action":!0}}const t=class{constructor(a){r(this,a)}render(){return o({props:{tabindex:"0"},classes:{"mdc-card__primary-action":!0}})}componentDidLoad(){a("uni-card-primary-action","style")}};export{t as U,s as u}
