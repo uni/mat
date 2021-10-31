@@ -1,1 +1,0 @@
-System.register(["./p-cdd7118d.system.js","./p-83ac2996.system.js"],(function(t){"use strict";return{setters:[function(s){t("uni_fa_styles",s.U)},function(){}],execute:function(){}}}));

@@ -1,0 +1,1 @@
+import{r as s,h as t,g as o}from"./p-606ddffe.js";import{u as r}from"./p-a1e23952.js";import{U as e}from"./p-6bad3208.js";let a=class{constructor(t){s(this,t)}render(){const{outlined:s}=this;return e({props:{outlined:s},classes:"mdc-select__anchor"},t("slot",null))}componentDidLoad(){r("mdk")}get el(){return o(this)}};export{a as U}

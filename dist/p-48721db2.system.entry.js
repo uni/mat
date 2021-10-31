@@ -1,0 +1,1 @@
+System.register(["./p-7aafeb4d.system.js","./p-cc1a5997.system.js","./p-fd8445cd.system.js","./p-732072fa.system.js","./p-8a8d84c1.system.js","./p-4a224b1c.system.js","./p-0acf0044.system.js"],(function(s){"use strict";return{setters:[function(t){s("uni_banner",t.U)},function(){},function(){},function(){},function(){},function(){},function(){}],execute:function(){}}}));

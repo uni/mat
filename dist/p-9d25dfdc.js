@@ -1,1 +1,0 @@
-import{r}from"./p-09960453.js";import{u as s}from"./p-78249524.js";import{U as p}from"./p-15d481af.js";let t=class{constructor(s){r(this,s)}render(){return p({classes:{"mdc-list-item__ripple":!0}})}componentDidLoad(){s("uni-list-item-ripple","apply")}};export{t as U}

@@ -1,0 +1,1 @@
+import{r}from"./p-606ddffe.js";import{u as s}from"./p-a1e23952.js";import{U as o}from"./p-d3bdf062.js";import{U as t}from"./p-c5c16cf1.js";let m=class{constructor(s){r(this,s)}render(){return o({classes:{[t.appContent]:!0}})}componentDidLoad(){s("mdk")}};export{m as U}

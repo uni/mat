@@ -1,0 +1,1 @@
+import{r}from"./p-606ddffe.js";import{u as e}from"./p-a1e23952.js";import{U as s}from"./p-d3bdf062.js";function d(){return{"mdc-drawer__header":!0}}let a=class{constructor(e){r(this,e)}render(){return s({classes:{"mdc-drawer__header":!0}})}componentDidLoad(){e("mdk")}};export{a as U,d as u}

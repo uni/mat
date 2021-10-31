@@ -1,0 +1,1 @@
+import{r}from"./p-606ddffe.js";import{u as s}from"./p-a1e23952.js";import{U as o}from"./p-d3bdf062.js";let t=class{constructor(s){r(this,s)}render(){return o({classes:{"mdc-list-item__ripple":!0}})}componentDidLoad(){s("mdk")}};export{t as U}

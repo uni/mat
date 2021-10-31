@@ -1,0 +1,1 @@
+import{r}from"./p-606ddffe.js";import{u as t}from"./p-a1e23952.js";import{U as o}from"./p-d3bdf062.js";function s(){return{"mdc-top-app-bar__title":!0}}let p=class{constructor(t){r(this,t)}render(){return o({classes:{"mdc-top-app-bar__title":!0}})}componentDidLoad(){t("mdk")}};export{p as U,s as u}

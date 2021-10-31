@@ -1,1 +1,0 @@
-System.register(["./p-addb31c7.system.js","./p-83ac2996.system.js","./p-a5f2118c.system.js","./p-fe05bd76.system.js"],(function(s){"use strict";return{setters:[function(t){s("uni_flag",t.U)},function(){},function(){},function(){}],execute:function(){}}}));

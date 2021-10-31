@@ -1,1 +1,0 @@
-System.register(["./p-25cd1425.system.js","./p-83ac2996.system.js","./p-50cda620.system.js","./p-6051a079.system.js","./p-a5f2118c.system.js","./p-fe05bd76.system.js"],(function(s){"use strict";return{setters:[function(t){s("uni_icons_fa_b",t.U)},function(){},function(){},function(){},function(){},function(){}],execute:function(){}}}));

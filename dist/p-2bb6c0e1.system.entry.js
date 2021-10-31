@@ -1,1 +1,0 @@
-System.register(["./p-17fb79d4.system.js","./p-83ac2996.system.js","./p-a821f331.system.js","./p-d01d5b46.system.js","./p-2dea2bc9.system.js","./p-a8423a6d.system.js"],(function(s){"use strict";return{setters:[function(t){s("uni_select_label",t.U)},function(){},function(){},function(){},function(){},function(){}],execute:function(){}}}));

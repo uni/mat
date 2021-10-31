@@ -1,1 +1,0 @@
-import{r as t,g as s}from"./p-09960453.js";import{u as l}from"./p-3d37710f.js";import"./p-891c8e03.js";import"./p-d6c0869d.js";let e=class{constructor(s){t(this,s),this.all=!1}componentWillLoad(){const{el:t,angle:s,selector:e,all:o}=this;l({el:t,angle:s,selector:e,all:o})}get el(){return s(this)}};export{e as uni_tilt_wrap}

@@ -1,0 +1,1 @@
+import{r,h as o}from"./p-606ddffe.js";import{u as s}from"./p-a1e23952.js";import{a as t}from"./p-6bad3208.js";let a=class{constructor(o){r(this,o)}render(){return t({},o("slot",null))}componentDidLoad(){s("mdk")}};export{a as U}
