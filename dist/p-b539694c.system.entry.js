@@ -1,1 +1,0 @@
-System.register(["./p-5ae2c674.system.js","./p-cc1a5997.system.js","./p-732072fa.system.js","./p-9e7c31fb.system.js","./p-2dea2bc9.system.js","./p-ecb21ac7.system.js"],(function(s){"use strict";return{setters:[function(t){s("uni_icon_toggle",t.U)},function(){},function(){},function(){},function(){},function(){}],execute:function(){}}}));

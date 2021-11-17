@@ -1,0 +1,1 @@
+import{M as n}from"./p-60b5bbd6.js";import{M as r}from"./p-a228c569.js";function t(r){return new n(r)}function o(n){return new r(n)}function a(n){return n.map((n=>new r(n)))}export{o as a,a as b,t as u}

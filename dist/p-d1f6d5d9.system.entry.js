@@ -1,0 +1,1 @@
+System.register(["./p-8b752511.system.js","./p-1877a707.system.js"],(function(t){"use strict";return{setters:[function(e){t("uni_drop_up",e.U)},function(){}],execute:function(){}}}));

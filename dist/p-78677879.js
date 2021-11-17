@@ -1,1 +1,0 @@
-import{r}from"./p-606ddffe.js";import{u as t}from"./p-a1e23952.js";import{U as o}from"./p-d3bdf062.js";function s(){return{"mdc-button__label":!0}}let e=class{constructor(t){r(this,t)}render(){return o({classes:{"mdc-button__label":!0}})}componentDidLoad(){t("mdk")}};export{e as U,s as u}

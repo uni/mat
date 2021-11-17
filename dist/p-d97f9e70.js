@@ -1,0 +1,1 @@
+function t(t){return void 0===t&&(t=window),!!function(t){void 0===t&&(t=window);var n=!1;try{var r={get passive(){return n=!0,!1}},e=function(){};t.document.addEventListener("test",e,r),t.document.removeEventListener("test",e,r)}catch(i){n=!1}return n}(t)&&{passive:!0}}export{t as a}

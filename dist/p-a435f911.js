@@ -1,1 +1,0 @@
-import{r as e}from"./p-606ddffe.js";import{u as m}from"./p-a1e23952.js";import{U as s}from"./p-d3bdf062.js";let r=class{constructor(m){e(this,m)}render(){return s({classes:"mdc-select__menu mdc-menu mdc-menu-surface"})}componentDidLoad(){m("mdk")}};r.style="uni-select-menu{min-width:200px !important}";export{r as U}

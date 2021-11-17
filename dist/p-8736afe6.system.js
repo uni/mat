@@ -1,0 +1,1 @@
+System.register([],(function(e){"use strict";return{execute:function(){e({c:t,m:r});function t(e,t){if(e.closest){return e.closest(t)}var n=e;while(n){if(r(n,t)){return n}n=n.parentElement}return null}function r(e,t){var r=e.matches||e.webkitMatchesSelector||e.msMatchesSelector;return r.call(e,t)}}}}));

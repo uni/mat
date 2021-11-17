@@ -1,1 +1,0 @@
-import{r}from"./p-606ddffe.js";import{u as s}from"./p-a1e23952.js";import{U as a}from"./p-d3bdf062.js";function o(){return{"mdc-fab__label":!0}}let e=class{constructor(s){r(this,s)}render(){return a({classes:{"mdc-fab__label":!0}})}componentDidLoad(){s("mdk")}};export{e as U,o as u}

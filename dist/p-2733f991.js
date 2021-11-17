@@ -1,1 +1,0 @@
-import{r}from"./p-606ddffe.js";import{u as s}from"./p-a1e23952.js";import{U as t}from"./p-d3bdf062.js";function o(){return{"mdc-drawer-scrim":!0}}let d=class{constructor(s){r(this,s),this.inactive=!1}render(){return t({classes:this.inactive?{}:{"mdc-drawer-scrim":!0}})}componentDidLoad(){s("mdk")}};export{d as U,o as u}

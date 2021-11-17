@@ -1,0 +1,1 @@
+import{r as s,g as t}from"./p-c21db65b.js";import{u as r,a as o}from"./p-6f5a44cd.js";import{u as a}from"./p-4c665fc5.js";let c=class{constructor(t){s(this,t),this.selector="uni-menu-surface"}onClick(){r(this.el,!1,this.selector).forEach((s=>{s&&(s.open=!0)}))}componentDidLoad(){a("mdk"),o(this.el,"mdc-menu-surface--anchor")}get el(){return t(this)}};export{c as U}

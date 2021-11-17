@@ -1,0 +1,1 @@
+import{r as s}from"./p-c21db65b.js";import{u as t}from"./p-4c665fc5.js";import{U as o}from"./p-7a22ba22.js";function r(){return{"mdc-dialog__title":!0}}let i=class{constructor(t){s(this,t),this.dataId=void 0}render(){return o({props:this.dataId?{id:this.dataId}:{},classes:{"mdc-dialog__title":!0}})}componentDidLoad(){t("mdk")}};export{i as U,r as u}
