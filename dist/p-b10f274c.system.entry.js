@@ -1,1 +1,0 @@
-System.register(["./p-a0302f3f.system.js","./p-1877a707.system.js","./p-1e736fd3.system.js","./p-ff5bc05b.system.js","./p-2dea2bc9.system.js"],(function(s){"use strict";return{setters:[function(t){s("uni_card_actions",t.U)},function(){},function(){},function(){},function(){}],execute:function(){}}}));

@@ -1,1 +1,0 @@
-import{r as s}from"./p-c21db65b.js";import{u as r}from"./p-4c665fc5.js";import{U as t}from"./p-7a22ba22.js";import{c as o}from"./p-8059aaa6.js";import"./p-cf0d344f.js";let a=class{constructor(r){s(this,r)}render(){const s=o();return t({classes:s})}componentDidLoad(){r("mdk")}};export{a as uni_list_item_text}

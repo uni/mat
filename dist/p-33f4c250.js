@@ -1,1 +1,0 @@
-import{r as s}from"./p-c21db65b.js";import{u as r}from"./p-4c665fc5.js";import{U as t}from"./p-7a22ba22.js";let o=class{constructor(r){s(this,r),this.size=12}render(){return t({classes:{"mdc-layout-grid__cell":!0,[`mdc-layout-grid__cell--span-${this.size}`]:this.size>0&&this.size<13}})}componentDidLoad(){r("mdk")}};export{o as U}

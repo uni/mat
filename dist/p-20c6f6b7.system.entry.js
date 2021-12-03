@@ -1,0 +1,1 @@
+System.register(["./p-6a56c8d6.system.js","./p-40f8131c.system.js","./p-df11d3e7.system.js","./p-3034003f.system.js","./p-3e4da347.system.js"],(function(s){"use strict";return{setters:[function(t){s("uni_list_item_ripple",t.U)},function(){},function(){},function(){},function(){}],execute:function(){}}}));

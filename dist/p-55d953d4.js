@@ -1,0 +1,1 @@
+import{r,h as s}from"./p-45e5d0c1.js";import{U as t}from"./p-82de3962.js";import{u as o}from"./p-e282851d.js";function e(){return{"mdc-drawer-scrim":!0}}let m=class{constructor(s){r(this,s),this.inactive=!1}render(){return t({classes:this.inactive?{}:{"mdc-drawer-scrim":!0}},s("slot",null))}componentDidLoad(){o("mat")}};export{m as U,e as u}

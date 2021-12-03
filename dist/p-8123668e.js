@@ -1,1 +1,0 @@
-import{r}from"./p-c21db65b.js";import{u as s}from"./p-4c665fc5.js";import{U as c}from"./p-7a22ba22.js";function o(){return{"mdc-card__actions":!0}}let a=class{constructor(s){r(this,s)}render(){return c({classes:{"mdc-card__actions":!0}})}componentDidLoad(){s("mdk")}};export{a as U,o as u}

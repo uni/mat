@@ -1,1 +1,0 @@
-import{h as s}from"./p-c21db65b.js";import{U as o}from"./p-cf0d344f.js";const r=({props:r,classes:t},a)=>o(s("button",Object.assign({},r,{class:t,"aria-disabled":r.disabled?"true":null}),a));export{r as U}

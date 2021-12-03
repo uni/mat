@@ -1,1 +1,0 @@
-const n={toggle:"mdc-icon-button__icon",active:"mdc-icon-button__icon--on"},t=Object.assign({button:"mdc-icon-button",pro:"uni-icon-button"},n);function o(n){return{[t.button]:!0,[t.pro]:n}}function c(t){return{[n.toggle]:!0,[n.active]:t}}export{n as U,t as a,c as b,o as u}

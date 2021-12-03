@@ -1,1 +1,0 @@
-import{r}from"./p-c21db65b.js";import{u as o}from"./p-4c665fc5.js";import{U as s}from"./p-7a22ba22.js";function a(){return{"mdc-top-app-bar__row":!0}}let p=class{constructor(o){r(this,o)}render(){return s({classes:{"mdc-top-app-bar__row":!0}})}componentDidLoad(){o("mdk")}};export{p as U,a as u}
