@@ -1,0 +1,1 @@
+export{U as uni_tab_text_label}from"./p-cd75c54c.js";import"./p-45e5d0c1.js";import"./p-82de3962.js";import"./p-12df985d.js";import"./p-e282851d.js";import"./p-cc523b0c.js";import"./p-1788acae.js";

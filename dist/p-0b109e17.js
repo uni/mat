@@ -1,0 +1,1 @@
+import{r as s,h as r,g as t}from"./p-45e5d0c1.js";import{U as o}from"./p-82de3962.js";import{u as e}from"./p-e282851d.js";import{e as a}from"./p-cc523b0c.js";let c=class{constructor(r){s(this,r)}render(){const s=a();return o({classes:s},r("slot",null))}componentDidLoad(){e("mat")}get el(){return t(this)}};export{c as U}

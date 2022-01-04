@@ -1,1 +1,0 @@
-System.register([],(function(e){"use strict";return{execute:function(){e("a",t);function t(e){if(e===void 0){e=window}return n(e)?{passive:true}:false}function n(e){if(e===void 0){e=window}var t=false;try{var n={get passive(){t=true;return false}};var r=function(){};e.document.addEventListener("test",r,n);e.document.removeEventListener("test",r,n)}catch(i){t=false}return t}}}}));

@@ -1,1 +1,0 @@
-System.register(["./p-40f8131c.system.js"],(function(e){"use strict";var t,n;return{setters:[function(e){t=e.r;n=e.h}],execute:function(){var r=e("U",function(){function e(e){t(this,e)}e.prototype.render=function(){return n("svg",{viewBox:"7 10 10 5",width:"8px",focusable:"false"},n("polygon",{stroke:"none","fill-rule":"evenodd",points:"7 15 12 10 17 15"}))};return e}())}}}));

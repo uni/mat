@@ -1,1 +1,0 @@
-System.register(["./p-40f8131c.system.js","./p-3034003f.system.js"],(function(s){"use strict";var t,e,n;return{setters:[function(s){t=s.h;e=s.e},function(s){n=s.U}],execute:function(){var r=s("U",(function(s,r){var c=s.props,u=s.classes;return t(e,Object.assign({},c,{class:u}),n(r))}))}}}));

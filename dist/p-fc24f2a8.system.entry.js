@@ -1,1 +1,0 @@
-System.register(["./p-2c376810.system.js","./p-40f8131c.system.js","./p-df11d3e7.system.js","./p-3034003f.system.js","./p-3e4da347.system.js"],(function(s){"use strict";return{setters:[function(e){s("uni_aside_header",e.U)},function(){},function(){},function(){},function(){}],execute:function(){}}}));
