@@ -1,1 +1,0 @@
-import{r as s,h as r}from"./p-45e5d0c1.js";import{U as o}from"./p-82de3962.js";import{u as t}from"./p-e282851d.js";import{U as e}from"./p-c5c16cf1.js";let m=class{constructor(r){s(this,r)}render(){return o({classes:{[e.appContent]:!0}},r("slot",null))}componentDidLoad(){t("mat")}};export{m as U}

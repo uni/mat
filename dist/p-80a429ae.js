@@ -1,1 +1,0 @@
-import{r as t,h as r}from"./p-45e5d0c1.js";import{U as o}from"./p-82de3962.js";import{u as s}from"./p-e282851d.js";function p(){return{"mdc-top-app-bar__title":!0}}let a=class{constructor(r){t(this,r)}render(){return o({classes:{"mdc-top-app-bar__title":!0}},r("slot",null))}componentDidLoad(){s("mat")}};export{a as U,p as u}

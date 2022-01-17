@@ -1,1 +1,0 @@
-import{r as s,h as t}from"./p-45e5d0c1.js";import{U as r}from"./p-82de3962.js";import{u as o}from"./p-e282851d.js";let e=class{constructor(t){s(this,t),this.size=12}render(){return r({classes:{"mdc-layout-grid__cell":!0,[`mdc-layout-grid__cell--span-${this.size}`]:this.size>0&&this.size<13}},t("slot",null))}componentDidLoad(){o("mat")}};export{e as U}

@@ -1,0 +1,1 @@
+import{r,h as s}from"./p-45e5d0c1.js";import{U as o}from"./p-82de3962.js";import{u as t}from"./p-e282851d.js";import"./p-12df985d.js";let e=class{constructor(s){r(this,s)}render(){return o({classes:{"mdc-layout-grid__inner":!0}},s("slot",null))}componentDidLoad(){t("mat")}};export{e as uni_grid_inner}

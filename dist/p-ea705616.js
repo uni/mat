@@ -1,1 +1,0 @@
-import{r,h as s}from"./p-45e5d0c1.js";import{U as t}from"./p-82de3962.js";import{u as e}from"./p-e282851d.js";function o(){return{"mdc-drawer__subtitle":!0}}let a=class{constructor(s){r(this,s)}render(){return t({classes:{"mdc-drawer__subtitle":!0}},s("slot",null))}componentDidLoad(){e("mat")}};export{a as U,o as u}

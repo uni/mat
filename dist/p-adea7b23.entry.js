@@ -1,0 +1,1 @@
+import{r,h as o}from"./p-45e5d0c1.js";import{U as s}from"./p-82de3962.js";import{u as t}from"./p-e282851d.js";import"./p-12df985d.js";let a=class{constructor(o){r(this,o)}render(){return s({props:{tabindex:"0"},classes:{"mdc-card__primary-action":!0}},o("slot",null))}componentDidLoad(){t("mat")}};export{a as uni_card_primary_action}

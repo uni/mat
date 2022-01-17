@@ -1,1 +1,0 @@
-import{r,h as o}from"./p-45e5d0c1.js";import{U as s}from"./p-82de3962.js";import{u as t}from"./p-e282851d.js";function a(){return{"mdc-card__primary-action":!0}}let c=class{constructor(o){r(this,o)}render(){return s({props:{tabindex:"0"},classes:{"mdc-card__primary-action":!0}},o("slot",null))}componentDidLoad(){t("mat")}};export{c as U,a as u}

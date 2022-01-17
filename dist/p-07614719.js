@@ -1,1 +1,0 @@
-import{r as t,h as s}from"./p-45e5d0c1.js";import{U as o}from"./p-82de3962.js";import{u as r}from"./p-e282851d.js";function i(){return{"mdc-dialog__title":!0}}let e=class{constructor(s){t(this,s),this.dataId=void 0}render(){return o({props:this.dataId?{id:this.dataId}:{},classes:{"mdc-dialog__title":!0}},s("slot",null))}componentDidLoad(){r("mat")}};export{e as U,i as u}

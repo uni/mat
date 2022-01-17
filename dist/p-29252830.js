@@ -1,0 +1,1 @@
+import{a as r}from"./p-24974892.js";import{M as n}from"./p-b5c2ae6e.js";function a(r){return new n(r)}function e(n){return new r(n)}export{a,e as u}

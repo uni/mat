@@ -1,0 +1,1 @@
+import{r as o,h as e}from"./p-45e5d0c1.js";let r=class{constructor(e){o(this,e)}render(){return e("svg",{viewBox:"7 10 10 5",width:"8px",focusable:"false"},e("polygon",{stroke:"none","fill-rule":"evenodd",points:"7 10 12 15 17 10"}))}};export{r as uni_drop_down}
