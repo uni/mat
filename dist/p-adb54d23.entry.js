@@ -1,0 +1,1 @@
+import{r,h as s}from"./p-05f4a60f.js";import{U as o}from"./p-049db068.js";import{u as p}from"./p-e282851d.js";import"./p-12df985d.js";const t=class{constructor(s){r(this,s)}render(){return o({classes:{"mdc-fab__ripple":!0}},s("slot",null))}componentDidLoad(){p("mat")}};export{t as uni_fab_ripple}

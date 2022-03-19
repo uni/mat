@@ -1,0 +1,1 @@
+import{r as o,h as s}from"./p-05f4a60f.js";import{U as r}from"./p-049db068.js";import{u as t}from"./p-e282851d.js";import"./p-12df985d.js";const a=class{constructor(s){o(this,s)}render(){return r({classes:{"mdc-dialog__actions":!0}},s("slot",null))}componentDidLoad(){t("mat")}};export{a as uni_dialog_actions}

@@ -1,0 +1,1 @@
+import{r as s,h as r}from"./p-05f4a60f.js";import{U as o}from"./p-049db068.js";import{u as t}from"./p-e282851d.js";import"./p-12df985d.js";const i=class{constructor(r){s(this,r),this.inactive=!1}render(){return o({classes:this.inactive?{}:{"mdc-drawer-scrim":!0}},r("slot",null))}componentDidLoad(){t("mat")}};export{i as uni_aside_scrim}

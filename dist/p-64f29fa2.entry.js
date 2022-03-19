@@ -1,0 +1,1 @@
+import{r as s}from"./p-05f4a60f.js";import{U as r}from"./p-049db068.js";import{u as t}from"./p-e282851d.js";import"./p-12df985d.js";const o=class{constructor(r){s(this,r)}render(){return r({classes:{"mdc-list-item__ripple":!0}})}componentDidLoad(){t("mat")}};export{o as uni_list_item_ripple}

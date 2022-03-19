@@ -1,1 +1,0 @@
-const o=o=>void 0!==o,a=o=>"object"==typeof o&&null!==o&&!(o=>Array.isArray(o))(o);export{a,o as i}

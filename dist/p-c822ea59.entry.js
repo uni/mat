@@ -1,0 +1,1 @@
+import{r,h as o}from"./p-05f4a60f.js";import{U as s}from"./p-049db068.js";import{u as t}from"./p-e282851d.js";import"./p-12df985d.js";const p=class{constructor(o){r(this,o)}render(){return s({classes:{"mdc-top-app-bar__row":!0}},o("slot",null))}componentDidLoad(){t("mat")}};export{p as uni_header_row}

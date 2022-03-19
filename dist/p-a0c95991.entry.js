@@ -1,0 +1,1 @@
+import{r as o,h as s}from"./p-05f4a60f.js";import{U as t}from"./p-049db068.js";import{u as r}from"./p-e282851d.js";import"./p-12df985d.js";const a=class{constructor(s){o(this,s)}render(){return t({classes:{"mdc-button__label":!0}},s("slot",null))}componentDidLoad(){r("mat")}};export{a as uni_button_label}

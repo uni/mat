@@ -1,0 +1,1 @@
+import{r as o,h as r}from"./p-05f4a60f.js";import{U as s}from"./p-049db068.js";import{u as t}from"./p-e282851d.js";import"./p-12df985d.js";const p=class{constructor(r){o(this,r)}render(){return s({classes:{"mdc-button__ripple":!0}},r("slot",null))}componentDidLoad(){t("mat")}};export{p as uni_button_ripple}

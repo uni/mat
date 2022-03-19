@@ -1,1 +1,0 @@
-import{r,h as s}from"./p-45e5d0c1.js";import{U as e}from"./p-82de3962.js";import{u as o}from"./p-e282851d.js";import"./p-12df985d.js";let d=class{constructor(s){r(this,s)}render(){return e({classes:{"mdc-drawer__header":!0}},s("slot",null))}componentDidLoad(){o("mat")}};export{d as uni_aside_header}

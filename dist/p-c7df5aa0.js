@@ -1,0 +1,1 @@
+import{a}from"./p-7ba3bd01.js";import{a as r}from"./p-ddd511ad.js";function n(a){return new r(a)}function o(r){return new a(r)}export{n as a,o as u}

@@ -1,0 +1,1 @@
+import{r as t,h as r}from"./p-05f4a60f.js";import{u as s}from"./p-e282851d.js";const o=class{constructor(r){t(this,r)}connectedCallback(){s("mat")}render(){return r("h1",null,r("slot",null))}};export{o as uni_test_mat}

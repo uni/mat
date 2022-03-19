@@ -1,0 +1,1 @@
+import{h as s}from"./p-05f4a60f.js";const l=(l,o,{props:t,classes:n},p)=>s("button",Object.assign({},t,{class:n,onClick:s=>o.emit(s)}),l?null:s("uni-button-ripple",null),p);export{l as U}

@@ -1,0 +1,1 @@
+const t=t=>void 0!==t,o=t=>"object"==typeof t&&null!==t&&!(t=>Array.isArray(t))(t);function n(o){return t(o)&&(t=>"string"==typeof t)(o)&&""===o}export{o as a,n as b,t as i}

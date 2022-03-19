@@ -1,1 +1,0 @@
-import{r as s,h as r}from"./p-45e5d0c1.js";import{U as o}from"./p-82de3962.js";import{u as p}from"./p-e282851d.js";import{U as t}from"./p-c5c16cf1.js";import"./p-12df985d.js";let a=class{constructor(r){s(this,r)}render(){return o({classes:{[t.appContent]:!0}},r("slot",null))}componentDidLoad(){p("mat")}};export{a as uni_aside_app}
